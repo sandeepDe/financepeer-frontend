@@ -6,6 +6,10 @@
     "node": "^10.13 || 12 || 14 || 15",
     "npm": ">=6"
   },
+  "engines": {
+    "node": "^10.13 || 12 || 14 || 15",
+    "npm": ">=6"
+  },
   "dependencies": {
     "@material-ui/icons": "4.11.2",
     "@mui/material": "5.2.2",
